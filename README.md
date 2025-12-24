@@ -8,7 +8,7 @@
 
 ## 📝 Table of Contents
 
-- What's Docker
+- What's Docker ?
 - Your Maven project ( expected structure )
 - Basic Dockerfile ( MOST IMPORTANT PART )
 - Getting Started

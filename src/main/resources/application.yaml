@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: hello-world
+server:
+  port: 1999
+env:
+  version: 1.0.2
